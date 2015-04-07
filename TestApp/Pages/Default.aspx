@@ -29,7 +29,7 @@
 
 <%-- The markup and script in the following Content element will be placed in the <body> of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
-    <div id="Titulorojo"></div>
+    <div id="TituloRojo">
     Yo soy un titulo y soy rojo
     </div>
     <div>
