@@ -1,1 +1,9 @@
 ﻿/* Place custom styles below */
+
+#TituloRojo 
+{
+    color: red;
+    font-size: 2em;
+    border: blue dashed 3px;
+    
+}

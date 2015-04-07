@@ -47,6 +47,7 @@
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{bfd938f1-f4d7-4942-b247-0038553f96af}</SharePointProjectItemId>
     </None>
+    <Content Include="Images\jigly.png" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>

@@ -22,12 +22,16 @@
 
 <%-- The markup in the following Content element will be placed in the TitleArea of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderPageTitleInTitleArea" runat="server">
-    Page Title
+    <img src="../Images/jigly.png" />¿Quien esta conectado?
+    <br/>
+    <asp:Label ID="Label1" runat="server"  Text="Y yo soy una label"></asp:Label>
 </asp:Content>
 
 <%-- The markup and script in the following Content element will be placed in the <body> of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
-
+    <div id="TituloRojo"></div>
+    Yo soy un titulo y soy rojo
+    </div>
     <div>
         <p id="message">
             <!-- The following content will be replaced with the user name when you run the app - see App.js -->
